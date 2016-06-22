@@ -1,2 +1,2 @@
 # hello-world
-Just another repository.
+Just another repository. First time coder, short time cypherpunk, troublemaker forever.
